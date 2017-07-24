@@ -1,0 +1,16 @@
+{
+    "name": "phaserjsnodejs",
+    "version": "1.0.0",
+    "description": "Phaser.JS + NodeJS my application",
+    "main": "server.js",
+    "dependencies": {
+        "socket.io": "1.7.2",
+        "express": "4.14.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Alex Levshyn/Dmitriy Rudenko",
+    "license": "ISC"
+}
